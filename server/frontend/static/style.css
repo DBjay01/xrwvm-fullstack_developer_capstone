@@ -12,7 +12,16 @@ img{
   margin-top: 1%;
   margin-bottom: 1%;
 }
-
+.contact-info {
+    text-align: center;
+    padding: 50px;
+}
+.about-image {
+    width: 200px;
+    height: auto;
+    border-radius: 50%;
+    margin-top: 20px;
+}
 .row{
   display: flex;  
   flex: 1;
